@@ -1,0 +1,19 @@
+{
+  "name": "csv-report-generator",
+  "version": "1.0.0",
+  "description": "mini-app-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miklbarton/csv-report-generator.git"
+  },
+  "author": "miklbarton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miklbarton/csv-report-generator/issues"
+  },
+  "homepage": "https://github.com/miklbarton/csv-report-generator#readme"
+}
